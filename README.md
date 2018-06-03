@@ -15,9 +15,13 @@ In this project you are given a web-based application that reads RSS feeds. The 
 
 ##The Spec
 1.Rss Feeds are defined , Has Url defined and not empty.
+
 2. the menu hideen by defult.
+
 3. the menu changes visibility.
+
 4. initial entries not empty.
+
 5. new feed selection is not the same of previous feed
 
 
